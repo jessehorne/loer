@@ -6,7 +6,7 @@ Lunar Homsteader's are faced with an interesting problem, with an efficient solu
 
 To begin, we'll examine the methods for keeping astronauts breathing aboard the ISS. This will give us a good starting point for determining the best ways to provide our Lunar Homesteader's with oxygen.
 
-I think it's important to note that the earth's atmosphere has a roughly 4:1 ratio of Nitrogen to Oxygen. We breath around 20% oxygen. Breathing 100% oxygen can be deadly(7). Which will affect this research, but for now I will focus on just the issue of Oxygen. For further study, check our resource #8.
+I think it's important to note that the earth's atmosphere has a roughly 4:1 ratio of Nitrogen to Oxygen. We breath around 20% oxygen. Breathing 100% oxygen can be deadly(7). Which will affect this research, but for now I will focus on just the issue of Oxygen. For further study, check out resource #8.
 
 ### Electrolysis of Water
 
