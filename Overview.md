@@ -26,8 +26,10 @@ Through the Sabatier reaction(5), you can also end up using that hydrogen along 
 
 Recent developments (from Chandrayaan-1 and M3) have shown us that there is water on the moon (15). Although Water can't persist on the surface, it can accumulate in "dark" areas, more often than not, near the poles.
 
+more coming soon...
+
 Further Reading:
-1. [Engineering](./Engineering.md)
+1. [Engineering](./Engineering.md) > [Extracting Water from Lunar Regolith](./engineering/water-from-regolith.md)
 
 ### Compressed Air
 
