@@ -4,17 +4,30 @@ Overview
 ## The Problem
 Lunar Homsteader's are faced with an interesting problem, with an efficient solution being vital to the success of any sustainable colony/habitat/homestead/study, on the Moon. They need to be able to breathe. That is obvious but the solution to the problem isn't always as clear.
 
-To begin, we'll examine the methods for keeping astronauts breathing aboard the ISS. This will give us a good starting point for determining the best ways to provide our Lunar Homesteader's with oxygen.
-
 I think it's important to note that the earth's atmosphere has a roughly 4:1 ratio of Nitrogen to Oxygen. We breath around 20% oxygen. Breathing 100% oxygen can be deadly(7). Which will affect this research, but for now I will focus on just the issue of Oxygen. For further study, check out resource #8.
+
+In this project, the goal is to aim for 1 SLHA (One Standard Lunar Homestead Atmosphere), the standard unit of atmospheric pressure and composition, created by Ben for Lunar Homestead(14). The reason for this is described in great depth in resource #14. This will require shipments of Nitrogen from Earth until we can figure out a better way to handle it. For now, that's our best bet. There's plenty of ways to maximize the efficiency of Nitrogren re-stock missions, and I hope to discuss that later.
+
+`78% nitrogen/21% oxygen at 70.11 kPa (equivalent to 3000 meters elevation)` - 1 SLHA (14)
+
+## Solutions
+
+To begin, we'll examine the methods for keeping astronauts breathing aboard the ISS. This will give us a good starting point for determining the best ways to provide our Lunar Homesteader's with oxygen. At the end of each method section, I'll explain if and how that method could be used on Luna, our Moon.
 
 ### Electrolysis of Water
 
-According to [Space Answers](www.spaceanswers.com)(4), the primary method for providing oxygen for astronauts aboard the ISS is through the electrolysis of water. Electrolysis is the process of using a direct electric current to drive a chemical reaction(2).
+![Electrolysis of Water by Lunar Homestead Crew](./assets/electrolysis-of-water.png)
+
+According to [Space Answers](www.spaceanswers.com)(4), the primary method for providing oxygen to astronauts aboard the ISS is through the electrolysis of water. Electrolysis is the process of using a direct electric current to drive a chemical reaction(2).
 
 The electrolysis of water can split H2O into separated Hydrogen and Oxygen molecules. It can be a win-win because Hydrogen can also be used as a fuel source in some cases. Otherwise, it gets pumped out because you don't want to keep flammable material around unless it's going to be useful.
 
 Through the Sabatier reaction(5), you can also end up using that hydrogen along with carbon dioxide, 300-400°C, some pressure and a nickel catalyst to produce methane and water. So there's high desire and potential to recycle, but I digress.
+
+Recent developments (from Chandrayaan-1 and M3) have shown us that there is water on the moon (15). Although Water can't persist on the surface, it can accumulate in "dark" areas, more often than not, near the poles.
+
+Further Reading:
+1. [Engineering](./Engineering.md)
 
 ### Compressed Air
 
@@ -39,5 +52,7 @@ coming soon...
 11. Chlorate Oxygen Generator (Oxygen Candle): Review of the History of Candle Development. John Graf. February 2017. [https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20170002051.pdf] Last checked January 8, 2020.
 12. https://en.wikipedia.org/wiki/Vika_oxygen_generator
 13. https://en.wikipedia.org/wiki/ISS_ECLSS
+14. http://lunarhomestead.com/2018/04/10/atmospheric-pressure-and-composition/
+15. https://sservi.nasa.gov/articles/its-official-water-found-on-the-moon/
 
 ???. https://en.wikipedia.org/wiki/Lithium_perchlorate
