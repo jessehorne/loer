@@ -28,9 +28,7 @@ Developments (from Chandrayaan-1 and M3) have shown us that there is water on th
 
 Getting water from regolith introduces some interesting issues...
 
-Liquid water doesn't persist on the Moon's surface. The lower the atmospheric pressure, the lower the boiling point of water. So water on the surface would immediately start to boil and would turn to vapor. That vapor would then be bombarded with radiation from the sun, causing the Hydrogen and Oxygen molecules to split and lost to space. So sifting the regolith and shaking it around like a miner would pan for gold, wouldn't work.
-
-more coming soon...
+Liquid water doesn't persist on the Moon's surface. The lower the atmospheric pressure, the lower the boiling point of water. Water on the surface would immediately start to boil and would turn to vapor. That vapor would then be bombarded with radiation from the sun, causing the Hydrogen and Oxygen molecules to split and be lost to space. So sifting the regolith in an open vacuum and shaking it around like a miner would pan for gold, wouldn't work.
 
 Further Reading:
 1. [Engineering](./Engineering.md) > [Extracting Water from Lunar Regolith](./engineering/water-from-regolith.md)
