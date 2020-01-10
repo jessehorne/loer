@@ -5,7 +5,7 @@ Extracting Water from Lunar Regolith
 
 This is a more theoretical document focused on engineering solutions for extracting water from lunar regolith. It's mostly continued from the `Electrolysis of Water` section of [Overview](../Overview.md).
 
-## Step 1
+## Theory
 
 The regolith would need to be contained, and potentially pressurized. Hypothetically speaking, if you were to put a ton of regolith immediately into a container that maintained a vacuum but didn't allow vapors to escape, you could transport it to the next stage of processing. You'd want to find your regolith near concentrations of water, which would more than likely be quite a bit below the surface and also frozen.
 
