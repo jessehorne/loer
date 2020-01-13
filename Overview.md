@@ -12,7 +12,7 @@ In this project, the goal is to aim for 1 SLHA (One Standard Lunar Homestead Atm
 
 ## Solutions
 
-To begin, we'll examine the methods for keeping astronauts breathing aboard the ISS. This will give us a good starting point for determining the best ways to provide our Lunar Homesteader's with oxygen. At the end of each method section, I'll explain if and how that method could be used on Luna, our Moon.
+To begin, we'll examine a method for keeping astronauts breathing aboard the ISS. Then we'll look at a more sustainable solution which could benefit us in other areas, too, extracting oxygen from oxides the Moon.
 
 ### Electrolysis of Water
 
@@ -33,13 +33,11 @@ Liquid water doesn't persist on the Moon's surface. The lower the atmospheric pr
 Further Reading:
 1. [Engineering](./Engineering.md) > [Extracting Water from Lunar Regolith](./engineering/water-from-regolith.md)
 
-### Compressed Air
+### Extracting Oxygen from Oxides
 
-coming soon...
+The Moon is estimated to be around 45% oxygen. As in, the total weight is composed of around 40-45% oxygen. The oxygen on Luna isn't in the atmosphere or mixed separately with the regolith or mega-regolith. The rock and soil tend to have materials mixed with oxygen to form oxides. For example, iron(II) oxide, or FeO, makes up about 14.1% of the lunar maria. The lunar maria covers around 15% of the moon. So you could say there's a *lot* of oxygen on the moon.
 
-### Vika oxygen generator
-coming soon...
-
+more coming soon...
 
 ## Resources
 
