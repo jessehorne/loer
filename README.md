@@ -1,7 +1,7 @@
 Lunar Oxygen Extraction Research
 ===
 
-Lunar Oxygen Extraction Research is a research project of [Lunar Homestead](http://lunarhomestead.com/), originally created by Jesse Horne and maintained by the Lunar Homestead Crew.
+Lunar Oxygen Extraction Research is a research project of [Lunar Homestead](http://lunarhomestead.com/).
 
 ![LH-style Periodic Table Oxygen Picket](./assets/oxygen-picket.png)
 
